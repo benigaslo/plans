@@ -1,8 +1,8 @@
 |Mod|Hrs|
-|---|---|
+|-|-|
 | [SINF](#sinf) | 170 |
 
-## [SINF] Sistemas Informáticos (1r 170h)
+## [SINF] Sistemas Informáticos (1r, 170h) 
 1. Explotación de Sistemas microinformáticos:
     - Arquitectura de ordenadores.
     - Componentes de un sistema informático.
@@ -95,7 +95,7 @@
     - Herramientas ofimáticas
     - Herramientas de Internet
     - Utilidades de propósito general: antivirus, recuperación de datos, mantenimiento del sistema, entre otros.
-## BBDD: Bases de datos (1r 170h)
+## [BBDD, 1r, 170h] Bases de datos
 1. Almacenamiento de la información:
     - Ficheros (planos, indexados, acceso directo, entre otro1..
     - Bases de datos. Conceptos, usos y tipos según el modelo de datos, la ubicación de la información.
@@ -175,7 +175,7 @@
     - Inserción de objetos.
     - Modificación y borrado de objetos.
     - Borrado de tablas y tipos.
-## PROG: Progamación (1r 230h)
+## [PROG, 1r, 230h] Progamación
 1. Identificación de los elementos de un programa informático:
     - Estructura y bloques fundamentales.
     - Soluciones y proyectos.
@@ -273,7 +273,7 @@
     - Manipulación de la información.
     - Mecanismos de actualización de la base de datos.
     - Ejecución de consultas sobre la base de datos.
-## LMSG: Lenguajes de marcas (1r 120h)
+## [LMSG, 1r, 120h] Lenguajes de marcas
 1. Reconocimiento de las características de los lenguajes de marcas:
     - Características comunes.
     - Identificación de ámbitos de aplicación.
@@ -335,7 +335,7 @@
     - Planificación, implantación y verificación de la seguridad.
     - Integración con aplicaciones ofimáticas.
     - Exportación de información.
-## ENDE: Entornos de desarrollo (1r 90h)
+## [ENDE, 1r, 90h] Entornos de desarrollo
 1. Desarrollo de software:
     - Concepto de programa informático.
     - Código fuente, código objeto y código ejecutable; máquinas virtuales.
@@ -384,7 +384,7 @@
     - Diagramas de colaboración. Objetos, mensajes.
     - Diagramas de actividades. Actividades, transiciones, decisiones y combinaciones
     - Diagramas de estado. Estados, eventos, señales, transiciones.
-## DCLI: Desarrollo web en entorno cliente (2n 125h)
+## [DCLI, 2n, 125h] Desarrollo web en entorno cliente
 1. Selección de arquitecturas y herramientas de programación:
     - Modelos de programación en entornos cliente / servidor.
     - Mecanismos de ejecución de código en un navegador web.
@@ -455,7 +455,7 @@
     - Modificación dinámica del documento utilizando comunicación asíncrona.
     - Formatos para el envío y recepción de información.
     - Librerías de actualización dinámica.
-## DSER: Desarrollo web en entorno servidor (2n 160h)
+## [DSER, 2n, 160h] Desarrollo web en entorno servidor
 1. Selección de arquitecturas y herramientas de programación:
     - Modelos de programación en entornos cliente/servidor.
     - Mecanismos de ejecución de código en un servidor web.
@@ -535,7 +535,7 @@
     - Utilización de información proveniente de repositorios.
     - Creación de repositorios a medida.
     - Incorporación de funcionalidades específicas.
-## DESP: Despliegue de aplicaciones web (2n 90h)
+## [DESP, 2n, 90h] Despliegue de aplicaciones web
 1. Implantación de arquitecturas web:
     - Aspectos generales de arquitecturas web.
     - Escalabilidad, portabilidad, componentización, patrones de diseño, entre otros.
@@ -608,7 +608,7 @@
     - Seguridad de los sistemas de control de versiones.
     - Historia de un repositorio.
     - Documentación sobre la instalación, configuración y uso del sistema de control de versiones.
-## DIIW: Diseño de interfaces web (2n 125h)
+## [DIIW, 2n, 125h] Diseño de interfaces web
 1. Planificación de interfaces gráficas:
     - Elementos del diseño: percepción visual.
     - Textura (puntos, línea, forma, volumen y profundida1..
@@ -695,7 +695,7 @@
     - Control de las diferentes opciones que se deben visualizar u ocultar en cada momento.
     - Verificación de la usabilidad en diferentes navegadores y tecnologías.
     - Herramientas y test de verificación. 
-## PDAW: Proyecto de Desarrollo de aplicaciones Web (2n 40h)
+## [PDAW, 2n, 40h] Proyecto de Desarrollo de aplicaciones Web
 1. Identificación de necesidades de necesidades del sector productivo y de la organización de la empresa:
     - Identificación de las funciones de los puestos de trabajo.
     - Estructura y organización empresarial del sector.
