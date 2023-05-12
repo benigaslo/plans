@@ -1,6 +1,6 @@
 |Mod|Hrs|
 |---|---|
-| [#sinf]() | 170 |
+| [SINF](#sinf) | 170 |
 
 ## SINF
 Sistemas Informáticos (1r 170h)
