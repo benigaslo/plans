@@ -516,7 +516,7 @@ https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-11888
     - Empaquetado de componentes.
 1. Usabilidad:
     - Concepto de usabilidad. Características, atributos.
-    - Normas relacionadas con la usabilidad (ISO ####, ISO #### e ISO ###### entre otra1..
+    - Normas relacionadas con la usabilidad (ISO 9126, ISO 9241 e ISO 14915, entre otras)
     - Medida de usabilidad de aplicaciones; tipos de métricas.
     - Pruebas de expertos; formularios tipo.
     - Pruebas con usuarios; cuestionarios.
