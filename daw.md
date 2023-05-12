@@ -14,7 +14,7 @@ https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-17329
 | [PDAW](#pdaw) | 40 |
 
 ## SINF
-[SINF, 1r, 170h] Sistemas Informáticos 
+[SINF, 1r, 170h] Sistemas Informáticos
 1. Explotación de Sistemas microinformáticos:
     - Arquitectura de ordenadores.
     - Componentes de un sistema informático.
