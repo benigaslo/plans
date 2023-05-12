@@ -2,8 +2,7 @@
 |---|---|
 | [SINF](#sinf) | 170 |
 
-## SINF
-Sistemas Informáticos (1r 170h)
+## [SINF] Sistemas Informáticos (1r 170h)
 1. Explotación de Sistemas microinformáticos:
     - Arquitectura de ordenadores.
     - Componentes de un sistema informático.
