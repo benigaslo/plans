@@ -1,17 +1,17 @@
 https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-17329
 
-|Mod|Hrs|Curs|
-|-|-|-|
-| [SINF](#sinf) | 170 | 1 |
-| [BBDD](#bbdd) | 170 | 1 |
-| [PROG](#prog) | 230 | 1 |
-| [LMSG](#lmsg) | 120 | 1 |
-| [ENDE](#ende) | 90 | 1 |
-| [DCLI](#dcli) | 125 | 2 |
-| [DSER](#dser) | 160 | 2 |
-| [DESP](#desp) | 90 | 2 |
-| [DIIW](#diiw) | 125 | 2 |
-| [PDAW](#pdaw) | 40 | 2 |
+|Mod|Hrs|Curs|Esp|
+|-|-|-|-|
+| [SINF](#sinf) | 170 | 1 | T |
+| [BBDD](#bbdd) | 170 | 1 | S |
+| [PROG](#prog) | 230 | 1 | S |
+| [LMSG](#lmsg) | 120 | 1 | S |
+| [ENDE](#ende) | 90 | 1 | S |
+| [DCLI](#dcli) | 125 | 2 | T |
+| [DSER](#dser) | 160 | 2 | S |
+| [DESP](#desp) | 90 | 2 | S |
+| [DIIW](#diiw) | 125 | 2 | T |
+| [PDAW](#pdaw) | 40 | 2 | - |
 
 ## SINF
 [SINF, 1r, 170h] Sistemas Informáticos
