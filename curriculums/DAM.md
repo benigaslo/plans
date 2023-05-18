@@ -1,18 +1,18 @@
 https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-11888
 
-|Mod|Hrs|Curs|
-|-|-|-|
-| [SINF](#sinf) | 170 | 1 |
-| [BBDD](#bbdd) | 170 | 1 |
-| [PROG](#prog) | 230 | 1 |
-| [LMSG](#lmsg) | 120 | 1 |
-| [ENDE](#ende) | 90 | 1 |
-| [ADAT](#adat) | 125 | 2 |
-| [DINT](#dint) | 125 | 2 |
-| [DMOV](#dmov) | 85 | 2 |
-| [PSYP](#psyp) | 70 | 2 |
-| [SIGE](#sige) | 95 | 2 |
-| [PDAM](#pdam) | 40 | 2 |
+|Mod|Hrs|Curs|Esp|
+|-|-|-|-|
+| [SINF](#sinf) | 170 | 1 | T |
+| [BBDD](#bbdd) | 170 | 1 | S |
+| [PROG](#prog) | 230 | 1 | S |
+| [LMSG](#lmsg) | 120 | 1 | S |
+| [ENDE](#ende) | 90 | 1 | S |
+| [ADAT](#adat) | 125 | 2 | S |
+| [DINT](#dint) | 125 | 2 | T |
+| [DMOV](#dmov) | 85 | 2 | S |
+| [PSYP](#psyp) | 70 | 2 | S |
+| [SIGE](#sige) | 95 | 2 | T |
+| [PDAM](#pdam) | 40 | 2 | - |
 
 ## SINF
 [SINF, 1r, 170h] Sistemas Informáticos
