@@ -5,6 +5,10 @@ gantt
     title A Gantt Diagram
     
     dateFormat  YYYY-MM-DD
+    
+    section PROJECTS 
+    MPA              :mpa1, 20023-09-15 60d
+    
     section DCLI
     Javascript       :dcli1, 2023-09-15, 50d
     APIs             :dcli2, after dcli1, 30d
