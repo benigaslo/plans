@@ -24,10 +24,11 @@ gantt
     SPA              :dcli5, after dcli4, 15d          
 
     section DIIW
-    Tailwind         :diiw1, 2023-09-15, 80d
-    MPA              :diiw2, after diiw1, 15d
-    React            :diiw3, after diiw2, 50d
-    Vue              :diiw4, after diiw3, 35d
+    Bootstrap        :diiw1, 2023-09-15, 30d
+    Tailwind         :diiw2, after diiw1, 60d
+    MPA              :diiw3, after diiw2, 15d
+    React            :diiw4, after diiw3, 50d
+    Vue              :diiw5, after diiw4, 35d
 
     section DESP
     HTTP,NGINX, PHP  :desp1, 2023-09-15, 40d
