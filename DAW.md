@@ -18,17 +18,16 @@ gantt
 
     section DCLI
     Javascript       :dcli1, 2023-09-15, 30d
-    APIs             :dcli2, after dcli1, 50d
-    MPA              :dcli3, after dcli2, 15d          
-    React            :dcli4, after dcli3, 70d
-    SPA              :dcli5, after dcli4, 15d          
+    APIs             :dcli2, after dcli1, 45d
+    React            :dcli3, after dcli2, 70d
+    Vue              :dcli4, after dcli3, 35d          
 
     section DIIW
     Bootstrap        :diiw1, 2023-09-15, 30d
-    Tailwind         :diiw2, after diiw1, 60d
+    Tailwind         :diiw2, after diiw1, 50d
     MPA              :diiw3, after diiw2, 15d
-    React            :diiw4, after diiw3, 50d
-    Vue              :diiw5, after diiw4, 35d
+    React            :diiw4, after diiw3, 70d
+    SPA              :dser4, after dser3, 15d
 
     section DESP
     HTTP,NGINX, PHP  :desp1, 2023-09-15, 40d
