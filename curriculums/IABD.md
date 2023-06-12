@@ -1,12 +1,12 @@
 [https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-11888](https://www.boe.es/boe/dias/2021/05/10/pdfs/BOE-A-2021-7686.pdf)
 
-|Mod|Hrs|HS|Esp|
-|-|-|-|-|
-| [MDIA](#mdia) | 90 | 3 | S |
-| [SIAA](#siaa) | 90 | 3 | S |
-| [PRIA](#pria) | 210 | 7 | S |
-| [SIBD](#sibd) | 90 | 3 | T |
-| [BDAP](#bdap) | 120 | 4 | T |
+|Mod|Hrs|H/S|Esp||
+|-|-|-|-|-|
+| [MDIA](#mdia) | 90 | 3 | S |Modelos de inteligencia artificial|
+| [SIAA](#siaa) | 90 | 3 | S |Sistemas de aprendizaje automático|
+| [PRIA](#pria) | 210 | 7 | S |Programación de inteligencia artificial|
+| [SIBD](#sibd) | 90 | 3 | T |Sistemas de Big Data|
+| [BDAP](#bdap) | 120 | 4 | T |Big Data aplicado|
 
 ## MDIA
 [MDIA, 90h] Modelos de inteligencia artifical
