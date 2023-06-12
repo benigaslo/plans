@@ -1,17 +1,17 @@
 https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-17329
 
-|Mod|Hrs|Curs|Esp|
-|-|-|-|-|
-| [SINF](#sinf) | 170 | 1 | T |
-| [BBDD](#bbdd) | 170 | 1 | S |
-| [PROG](#prog) | 230 | 1 | S |
-| [LMSG](#lmsg) | 120 | 1 | S |
-| [ENDE](#ende) | 90 | 1 | S |
-| [DCLI](#dcli) | 125 | 2 | T |
-| [DSER](#dser) | 160 | 2 | S |
-| [DESP](#desp) | 90 | 2 | S |
-| [DIIW](#diiw) | 125 | 2 | T |
-| [PDAW](#pdaw) | 40 | 2 | - |
+|Mod|Hrs|Curs|Esp||
+|-|-|-|-|-|
+| [SINF](#sinf) | 170 | 1 | T |Sistemas informáticos|
+| [BBDD](#bbdd) | 170 | 1 | S |Bases de datos|
+| [PROG](#prog) | 230 | 1 | S |Programación|
+| [LMSG](#lmsg) | 120 | 1 | S |Lenguajes de marcas y sistemas de gestión|
+| [ENDE](#ende) | 90 | 1 | S |Entornos de desarrollo|
+| [DCLI](#dcli) | 125 | 2 | T |Desarrollo web en entorno cliente|
+| [DSER](#dser) | 160 | 2 | S |Desarrollo web en entorno servidor|
+| [DESP](#desp) | 90 | 2 | S |Despliegue de aplicaciones web|
+| [DIIW](#diiw) | 125 | 2 | T |Diseño de interfaces web|
+| [PDAW](#pdaw) | 40 | 2 | - |Proyecto|
 
 ## SINF
 [SINF, 1r, 170h] Sistemas Informáticos
