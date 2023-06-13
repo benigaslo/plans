@@ -1,18 +1,17 @@
 https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-11888
 
-|Mod|Hrs|Curs|Esp||
-|-|-|-|-|-|
-| [SINF](#sinf) | 170 | 1 | T |Sistemas informáticos|
-| [BBDD](#bbdd) | 170 | 1 | S |Bases de datos|
-| [PROG](#prog) | 230 | 1 | S |Programación|
-| [LMSG](#lmsg) | 120 | 1 | S |Lenguajes de marcas y sistemas de gestión|
-| [ENDE](#ende) | 90 | 1 | S |Entornos de desarrollo|
-| [ADAT](#adat) | 125 | 2 | S |Acceso a datos|
-| [DINT](#dint) | 125 | 2 | T |Diseño de interfaces|
-| [DMOV](#dmov) | 85 | 2 | S |Programación multimedia y dispositivos móviles|
-| [PSYP](#psyp) | 70 | 2 | S |Programación de servicios y procesos|
-| [SIGE](#sige) | 95 | 2 | T |Sistemas de gestión empresarial|
-| [PDAM](#pdam) | 40 | 2 | - |Proyecto|
+|Mod|Hrs|H/S|Curs|Esp||
+|-|-|-|-|-|-|
+| [SINF](#sinf) | 170 | 5 | 1 | T |Sistemas informáticos|
+| [BBDD](#bbdd) | 170 | 5 | 1 | S |Bases de datos|
+| [PROG](#prog) | 230 | 7 | 1 | S |Programación|
+| [LMSG](#lmsg) | 120 | 4 | 1 | S |Lenguajes de marcas y sistemas de gestión|
+| [ENDE](#ende) | 90 | 3 | 1 | S |Entornos de desarrollo|
+| [ADAT](#adat) | 125 | 6 | 2 | S |Acceso a datos|
+| [DINT](#dint) | 125 | 6 | 2 | T |Diseño de interfaces|
+| [DMOV](#dmov) | 85 | 4 | 2 | S |Programación multimedia y dispositivos móviles|
+| [PSYP](#psyp) | 70 | 4 | 2 | S |Programación de servicios y procesos|
+| [SIGE](#sige) | 95 | 5 | 2 | T |Sistemas de gestión empresarial|
 
 ## SINF
 [SINF, 1r, 170h] Sistemas Informáticos
