@@ -34,8 +34,8 @@
 || [DIIW](#diiw) | 120 | 6 | 2| T |Diseño de interfaces web|
 || [FCTDAW](#fctdaw) | 400 | 5 | 2 | - ||
 |BDIA|-|-|-|-|-|-|
-|| [MDIA](#mdia) | 90 | 3 | S |Modelos de inteligencia artificial|
-|| [SIAA](#siaa) | 90 | 3 | S |Sistemas de aprendizaje automático|
-|| [PRIA](#pria) | 210 | 7 | S |Programación de inteligencia artificial|
-|| [SIBD](#sibd) | 90 | 3 | T |Sistemas de Big Data|
-|| [BDAP](#bdap) | 120 | 4 | T |Big Data aplicado|
+|| [MDIA](#mdia) | 90 | 3 |-| S | Modelos de inteligencia artificial|
+|| [SIAA](#siaa) | 90 | 3 |-| S |Sistemas de aprendizaje automático|
+|| [PRIA](#pria) | 210 | 7 |-| S |Programación de inteligencia artificial|
+|| [SIBD](#sibd) | 90 | 3 |-| T |Sistemas de Big Data|
+|| [BDAP](#bdap) | 120 | 4 |-| T |Big Data aplicado|
